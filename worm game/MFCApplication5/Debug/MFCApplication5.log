@@ -1,0 +1,22 @@
+﻿  pch.cpp
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\pch.h(49,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\pch.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  CCoin.cpp
+  CWorm.cpp
+  MainFrm.cpp
+  MFCApplication5.cpp
+  MFCApplication5Doc.cpp
+  MFCApplication5View.cpp
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\MFCApplication5View.cpp(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\MFCApplication5View.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\MFCApplication5View.cpp(48,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\MFCApplication5View.cpp(109,119): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\MFCApplication5View.cpp(109,88): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\MFCApplication5View.cpp(109,63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\MFCApplication5View.cpp(109,37): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\MFCApplication5View.cpp(124,72): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\MFCApplication5View.cpp(124,41): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\MFCApplication5View.cpp(125,73): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SSong\source\repos\MFCApplication5\MFCApplication5\MFCApplication5View.cpp(125,41): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  MFCApplication5.vcxproj -> C:\Users\SSong\source\repos\MFCApplication5\Debug\MFCApplication5.exe
